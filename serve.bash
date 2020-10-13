@@ -1,0 +1,1 @@
+deno run --allow-net --allow-read --allow-write server/p2p-tasks-server.ts
