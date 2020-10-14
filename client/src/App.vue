@@ -3,6 +3,13 @@
   <div id="app">
     <Todos v-bind:todos="todos" v-on:delete-todo="deleteTodo" />
     <AddTodo v-on:add-todo="addTodo" />
+    <h2>Feel free to fork the following repo and create a PR to contribute:</h2>
+    <br />
+    <a
+      href="https://github.com/michael-spengler/p2p-tasks"
+      target="_blank"
+      rel="noopener noreferrer"
+    >https://github.com/michael-spengler/p2p-tasks</a>
   </div>
 </template>
 
