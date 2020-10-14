@@ -1,3 +1,5 @@
+cd /root/p2p-tasks
+
 git pull
 
 npm config set ignore-scripts true
