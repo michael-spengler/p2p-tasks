@@ -23,7 +23,7 @@ Re-building the decentralized web - https://www.youtube.com/watch?v=Fy5eKqM8-OA
 # Contribution
 
 # History
-Peer 2 Peer Enterpris as it is before the Hackathon is integrated / bound to only one issue / task platform (e.g. github). This turned out to be bad - not only due to company internal github instances. 
+Peer 2 Peer Enterprise as it is before the Hackathon is integrated / bound to only one issue / task platform (e.g. github). This turned out to be bad - not only due to company internal github instances. 
 
 
 # Community
