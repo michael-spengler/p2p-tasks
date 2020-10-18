@@ -3,7 +3,7 @@
 Potential skeleton for Peer 2 Peer Tasks
 
 Using GitHub Action based deployment (on push to master branch):
-https://peer2peer-enterprise.org:1443/ 
+https://peer2peer-tasks.org 
 
 # Backend 
 Deno based backend
@@ -30,6 +30,5 @@ Peer 2 Peer Enterprise as it is before the Hackathon is integrated / bound to on
 1. Twitter: https://twitter.com/peer2peere
 2. Discord: https://discord.gg/KfpZfYY
 3. Telegram: https://t.me/joinchat/CocyExk6b2iYN3oyCQTgmQ
-4. 
 
 
